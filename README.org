@@ -1,0 +1,6 @@
+#+TITLE: Cheat The Web
+#+AUTHOR: cheattheweb
+#+DESCRIPTION: Personal bolg and site cheattheweb
+
+* Welcome to my website
+- [[https://www.github.com/cheattheweb][Github]]
