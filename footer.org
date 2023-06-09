@@ -1,0 +1,8 @@
+#+DESCRIPTION: Footer
+#+SETUPFILE: org-html-themes/org/theme-readtheorg-local.setup
+#+OPTIONS: num:nil ^:{}
+
+* Footer
+    © Copyright 2023 Cheattheweb. All right Reserved.
+
+    The source code of cheattheweb.me can be found on [[https://github.com/cheattheweb/cheattheweb.github.io][Github]].

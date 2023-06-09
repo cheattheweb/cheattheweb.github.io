@@ -1,0 +1,24 @@
+#+TITLE: Cheat The Web
+#+DESCRIPTION: header file
+#+AUTHOR: cheattheweb
+#+SETUPFILE: org-html-themes/org/theme-readtheorg-local.setup
+#+OPTIONS: num:nil ^:{}
+#+HTML_HEAD: <style> span{padding : 2px 2px 2px 2px;margin : 2px 5px 2px 2px;font-size: 20px;} </style>
+#+HTML_HEAD: <style> div.org-header{margin : 5px 5px 2px 2px; padding: 10px 25px 0px 0px;} </style>
+#+HTML_HEAD: <style> div.indexs{margin : 10px 20px 5px 5px;} </style>
+
+#+begin_export html
+<div class="org-header">
+
+<div class="indexs">
+
+<span><a>Home</a></span>
+<span><a>Linux</a></span>
+<span><a>Anime</a></span>
+<span><a>InfoSec</a></span>
+<span><a>Contact</a></span>
+<span><a>Blog</a></span>
+
+</div>
+</div>
+#+end_export

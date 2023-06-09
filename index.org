@@ -1,0 +1,17 @@
+#+TITLE: Index of the Website
+#+AUTHOR: Cheattheweb
+#+DESCRIPTION: cheattheweb.me website
+#+SETUPFILE: org-html-themes/org/theme-readtheorg-local.setup
+#+EXPORT_FILE_NAME: /home/arka/Github/cheattheweb.github.io/index.html
+#+INCLUDE: "header.org"
+
+* Welcome
+Hello weebs, welcome to my corner of the internet.
+=Cheattheweb.me= is my personal 'website/blog'.
+
+This site was created in =Emacs= and writing in =OrgMode=.
+I know can use a site generator but there is no fun in that way.
+* News
+* Latest Blog
+
+#+INCLUDE: "footer.org"
